@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="120" alt="Pixelify-AOSP">
+<img src="./assets/banner.png" width="100%" alt="Pixelify-AOSP Banner">
 
-# Pixelify-AOSP
+<br>
+
+# Pixelify‑AOSP (ASCP Project)
 
 ### AOSP, refined. Performance without the noise.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pixelify--AOSP-181717?style=for-the-badge&logo=github)](https://github.com/Pixelify-AOSP)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ascpos_marble)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Community-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ascp_marble)
+<a href="https://github.com/Pixelify-AOSP"><img src="https://img.shields.io/badge/GitHub-Pixelify--AOSP-6750A4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://t.me/ascpos_marble"><img src="https://img.shields.io/badge/Telegram-Channel-4DB6AC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
+<a href="https://t.me/ascp_marble"><img src="https://img.shields.io/badge/Telegram-Community-4DB6AC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group"></a>
 
 </div>
 
----
+<br>
 
-## ✦ About Pixelify-AOSP
+## ✦ About ASCP Project
 
-**Pixelify-AOSP** is an open-source Android project built around a simple idea:
+**ASCP-Project** is an open‑source Android project built around a simple idea:
 keep the experience clean, smooth and reliable while adding the features that
 actually matter.
 
@@ -25,105 +27,43 @@ We focus on a polished AOSP experience with a strong balance between
 
 > **Clean foundation. Thoughtful features. No unnecessary noise.**
 
----
+<br>
 
 ## ⚡ What We Aim For
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Performance
-
+**🚀 Performance**
 Smooth animations, responsive interactions and a fluid everyday experience.
 
-</td>
-<td width="50%">
-
-### 🔋 Battery
-
+**🔋 Battery**
 A balanced approach to power and performance without sacrificing usability.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**🎨 Experience**
+A clean interface with carefully selected customization and quality‑of‑life features.
 
-### 🎨 Experience
+**🛠️ Open Source**
+Community‑driven development with transparent and accessible source code.
 
-A clean interface with carefully selected customization and quality-of-life features.
+<br>
 
-</td>
-<td width="50%">
+## 🧩 Other Insights
 
-### 🛠️ Open Source
-
-Community-driven development with transparent and accessible source code.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📱 Device Support
-
-Our device lineup is growing.
-
-Official device information, maintainers, support status and device-specific
-sources can be found here:
-
-<div align="center">
-
-### [📱 Official Devices](https://github.com/Pixelify-AOSP/official_devices)
-
-</div>
-
-> More devices and maintainer information will be added here as the project expands.
-
----
-
-## 🧩 Other Projects
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📱 Official Devices
-
+**📱 Official Devices**
 Device sources, support information and official device status.
-
 **[Explore →](https://github.com/Pixelify-AOSP/official_devices)**
 
-</td>
-
-<td align="center" width="33%">
-
-### 💬 Community
-
+**💬 Community**
 Join the community for announcements, discussion and support.
-
 **[Telegram →](https://t.me/ascp_marble)**
 
-</td>
-
-<td align="center" width="33%">
-
-### 📢 Announcements
-
+**📢 Announcements**
 Follow the channel for project updates, releases and news.
-
 **[Follow →](https://t.me/ascpos_marble)**
 
-</td>
-</tr>
-</table>
-
----
+<br>
 
 ## 🤝 Community
 
-Pixelify-AOSP is made possible by developers, maintainers, testers and users
+Pixelify‑AOSP (ASCP) is made possible by developers, maintainers, testers and users
 who contribute their time and knowledge.
 
 Whether you're bringing up a device, fixing a bug, improving the framework,
@@ -138,125 +78,31 @@ contribution matters.**
 4. Open a pull request.
 5. Work with the maintainers through review.
 
----
+<br>
 
 ## ❤️ Credits
 
-Pixelify-AOSP would not exist without the work of the wider Android open-source
+ASCP would not exist without the work of the wider Android open‑source
 community.
 
 We are grateful to the projects and developers whose work, ideas, research,
 code and contributions have helped shape the Android ecosystem.
 
-<table>
-<tr>
-<td align="center">
+- **AOSP** — [Android Open Source Project](https://github.com/aosp-mirror)
+- **LineageOS** — [LineageOS](https://github.com/lineageos)
+- **Lunaris‑AOSP** — [Lunaris‑AOSP](https://github.com/Lunaris-AOSP)
+- **PixelOS** — [PixelOS](https://github.com/PixelOS-AOSP)
+- **DerpFest‑AOSP** — [DerpFest‑AOSP](https://github.com/DerpFest-AOSP)
+- **RisingOS‑Revived** — [RisingOS‑Revived](https://github.com/RisingOS-Revived)
+- **VoltageOS** — [VoltageOS](https://github.com/VoltageOS)
+- **AxionOS** — [AxionOS](https://github.com/AxionAOSP)
+- **Project InfinityX** — [Project InfinityX](https://github.com/ProjectInfinity-X)
+- **crDroid** — [crDroid](https://github.com/crdroidandroid)
+- **Avium OS** — [Avium OS](https://github.com/AviumUI)
+- **Mist OS** — [Mist OS](https://github.com/Project-Mist-OS)
+- **Evolution X** — [Evolution X](https://github.com/Evolution-X)
 
-### AOSP
-
-[Android Open Source Project](https://github.com/aosp-mirror)
-
-</td>
-<td align="center">
-
-### LineageOS
-
-[LineageOS](https://github.com/lineageos)
-
-</td>
-<td align="center">
-
-### Lunaris-AOSP
-
-[Lunaris-AOSP](https://github.com/Lunaris-AOSP)
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### PixelOS
-
-[PixelOS](https://github.com/PixelOS-AOSP)
-
-</td>
-<td align="center">
-
-### DerpFest-AOSP
-
-[DerpFest-AOSP](https://github.com/DerpFest-AOSP)
-
-</td>
-<td align="center">
-
-### RisingOS-Revived
-
-[RisingOS-Revived](https://github.com/RisingOS-Revived)
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### VoltageOS
-
-[VoltageOS](https://github.com/VoltageOS)
-
-</td>
-<td align="center">
-
-### AxionOS
-
-[AxionOS](https://github.com/AxionAOSP)
-
-</td>
-<td align="center">
-
-### Project InfinityX
-
-[Project InfinityX](https://github.com/ProjectInfinity-X)
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### crDroid
-
-[crDroid](https://github.com/crdroidandroid)
-
-</td>
-<td align="center">
-
-### Avium OS
-
-[Avium OS](https://github.com/AviumUI)
-
-</td>
-<td align="center">
-
-### Mist OS
-
-[Mist OS](https://github.com/Project-Mist-OS)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="3">
-
-### Evolution X
-
-[Evolution X](https://github.com/Evolution-X)
-
-</td>
-</tr>
-</table>
-
----
+<br>
 
 ## 🔗 Quick Links
 
@@ -269,11 +115,11 @@ code and contributions have helped shape the Android ecosystem.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### Built with ❤️ by the Pixelify-AOSP community
+### Built with ❤️ by the Pixelify‑AOSP (ASCP) community
 
 `AOSP` · `Open Source` · `Community Driven`
 
