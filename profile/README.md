@@ -92,6 +92,7 @@ code and contributions have helped shape the Android ecosystem.
 - **LineageOS** — [LineageOS](https://github.com/lineageos)
 - **Lunaris‑AOSP** — [Lunaris‑AOSP](https://github.com/Lunaris-AOSP)
 - **PixelOS** — [PixelOS](https://github.com/PixelOS-AOSP)
+- **Neoteric-OS** - [Neoteric-OS](https://github.com/Neoteric-OS)
 - **PenguinOS** - [PenguinOS](https://github.com/Project-PenguinOS)
 - **DerpFest‑AOSP** — [DerpFest‑AOSP](https://github.com/DerpFest-AOSP)
 - **RisingOS‑Revived** — [RisingOS‑Revived](https://github.com/RisingOS-Revived)
